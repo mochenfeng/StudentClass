@@ -1,0 +1,2 @@
+INSERT INTO `course`(`course_id`, `course_number`, `course_name`, `course_description`, `course_hour`, `course_credit`, `major_id`, `department_id`) VALUES (2001, 2001, 'Vue', '看着办', 25, 4, 104, 1007);
+INSERT INTO `course`(`course_id`, `course_number`, `course_name`, `course_description`, `course_hour`, `course_credit`, `major_id`, `department_id`) VALUES (2002, 2002, 'Ps', '也就那样', 40, 4, 107, 1007);
